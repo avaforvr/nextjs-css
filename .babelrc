@@ -5,6 +5,13 @@
     ]
   ],
   "plugins": [
+    ["module-resolver", {
+      "root": ["./"],
+      "alias": {
+        "@": ".",
+        "@@": "./components"
+      }
+    }],
     ["react-css-modules", {
       "generateScopedName": "[local]__[hash:base64:5]",
       "exclude": "node_modules",
