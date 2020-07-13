@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91d6a0c3-d978-4072-9277-4ed81c78ef76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eRF0Pdv9WTMeP8oFKSeZbugrDW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nextjs-css" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="D:\workspace\ava\nextjs-scss\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\ava\nextjs-scss\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\ava\nextjs-scss\pages" />
+      <recent name="D:\workspace\ava\nextjs-scss\build" />
+      <recent name="D:\workspace\ava\nextjs-scss\components\base" />
+      <recent name="D:\workspace\ava\nextjs-scss" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91d6a0c3-d978-4072-9277-4ed81c78ef76" name="Default Changelist" comment="" />
+      <created>1594276274744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594276274744</updated>
+      <workItem from="1594276278878" duration="3798000" />
+      <workItem from="1594280149091" duration="24553000" />
+      <workItem from="1594454246647" duration="11000" />
+      <workItem from="1594454386326" duration="704000" />
+      <workItem from="1594455493618" duration="842000" />
+      <workItem from="1594622667166" duration="1741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pages/_app.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="221" key="FileChooserDialogImpl" timestamp="1594622674717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594622674717" />
+    <state x="384" y="78" key="SettingsEditor" timestamp="1594285019655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594285019655" />
+    <state x="532" y="237" key="run.anything.popup" timestamp="1594375401716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594375401716" />
+    <state x="319" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1594287700245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="319" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594287700245" />
+    <state x="450" y="433" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1594287706394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="433" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594287706394" />
+  </component>
+</project>

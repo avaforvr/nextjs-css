@@ -9,7 +9,9 @@ class MyDocument extends Document {
     render() {
         return (
             <Html dir="rtl">
-                <Head />
+                <Head>
+                    <link rel="stylesheet" type="text/css" href="/static/css/reset.css"/>
+                </Head>
                 <body>
                 <Main />
                 <NextScript />

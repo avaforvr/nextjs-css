@@ -7,6 +7,7 @@ module.exports = withSass({
     cssLoaderOptions: {
         importLoaders: 1,
         // scoped class 格式
+        // localIdentName: "[local]__[hash:base64:5]",
         getLocalIdent: (context, localIdentName, localName) => {
             return generateScopedName(localName, context.resourcePath)
         }
